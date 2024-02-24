@@ -11,12 +11,8 @@
             "id": "a8bebf3f188ba3f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Over the Wire/Bandit.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Over the Wire/Bandit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Over the Wire/Bandit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Over the Wire/Bandit.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,6 +149,23 @@
   },
   "active": "a8bebf3f188ba3f8",
   "lastOpenFiles": [
+    "TODO (01-20-24).md",
+    "RSS Feeds.md",
+    "Python/Web Scraping.md",
+    "Python/Virtual Environments.md",
+    "Python",
+    "Over the Wire/Bandit.md",
+    "Over the Wire",
+    "Images/RSS Feed Icon.png",
+    "Images",
+    "GitHub.md",
+    "Code Projects/Seinfeld Daily Quotes.md",
+    "Code Projects/Obsidian Note Editor.md",
+    "Code Projects/Code Project Ideas.md",
+    "Code Projects",
+    "Black Bean & Corn Salad.md",
+    "Bash.md",
+    "Bash Shortcuts.md_copy.txt",
     "Notes/Seinfeld Quote of the Day App.md",
     "WSL 2.md",
     "VSCode.md",
@@ -172,25 +181,8 @@
     "Python.md",
     "Python Project Layout.md",
     "Pydantic.md",
-    "PyInstaller.md",
-    "Path Traversal.md",
     "Pasted image 20240223074420.png",
-    "MyPy.md",
-    "Git.md",
-    "Docstrings.md",
-    "Data Class.md",
-    "Conway's Game of Life.md",
-    "Configuration Files.md",
-    "Clean Code.md",
-    "Caves of Qud.md",
-    "CS50x/Week 0 - Scratch.md",
     "CS50x",
-    "Python",
-    "Over the Wire",
-    "Images/RSS Feed Icon.png",
-    "Images",
-    "Code Projects",
-    "Bash Shortcuts.md_copy.txt",
     "Journal/Recipes/Sides",
     "Journal/Recipes/Salads",
     "Journal/Recipes/Dinner",
