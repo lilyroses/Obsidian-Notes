@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "620eb6a350b26280",
+    "type": "split",
+    "children": [
+      {
+        "id": "22f512a69d0970eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaf226e037cc0f96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/TODO.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e39697d50d4e337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Sides/Garlic Bread.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cbaf2a1db7cc318",
+    "type": "split",
+    "children": [
+      {
+        "id": "c746a1e115277a67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "356e0bd5e16edb5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33025d2d4121f84e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#websec",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e72c6b774420bbd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a0d7cae79079e082",
+    "type": "split",
+    "children": [
+      {
+        "id": "e818b2392379bbf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78808cc7465dbaa2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/TODO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "885f478bbb25d618",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/TODO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb0f3cd7a9d81e45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e1e5b0bf3650a9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/TODO.md"
+              }
+            }
+          },
+          {
+            "id": "4be3f1df73d7a2c0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "aaf226e037cc0f96",
+  "lastOpenFiles": [
+    "Recipes/Recipe Template.md",
+    "Journal/TODO.md",
+    "Recipes/Dinner/Three Cheese Stuffed Shells.md",
+    "Recipes/Sides/Garlic Bread.md",
+    "Tags.md",
+    "Recipes/Dinner/Untitled",
+    "Recipes/Sides",
+    "Recipes/Salads",
+    "Recipes/Desserts",
+    "Recipes/Dinner",
+    "Recipes",
+    "Tech Notes/Python.md",
+    "Tech Notes",
+    "Music",
+    "Music/The Weeknd - Discography.md",
+    "Journal/Memories/The First Encounter (of the Regular Kind).md",
+    "Journal/Memories/The First Encounter (of the Sexual Kind).md",
+    "Journal/Journal Entry 1 (2023-12-19).md",
+    "Journal/Memories",
+    "Journal/Memories/Memories.md",
+    "Music/House of Ballons Glass Table Girls.md",
+    "Journal/Plan of Action.md",
+    "Gaming/Skyrim/Character Sheet (Skyrim).md",
+    "Food Stamp Card.md",
+    "Gaming/Skyrim",
+    "Tech Notes/Git.md",
+    "Tech Notes/Vagrant.md",
+    "Gaming/Dungeons and Dragons/Character Sheet.md",
+    "required-dice.md",
+    "Gaming/Dungeons and Dragons/Rules.md",
+    "Gaming/Dungeons and Dragons/Dungeons and Dragons.md",
+    "Dungeons and Dragons/Rislav.md",
+    "Dungeons and Dragons/Tav.md",
+    "PortSwigger WebSec Academy/API Testing.md",
+    "Gaming/Dungeons and Dragons/Baldur's Gate.md",
+    "PortSwigger WebSec Academy/Server-Side Vulnerabilities.md"
+  ]
+}
